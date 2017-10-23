@@ -1,2 +1,3 @@
-# openCV_tutorial
+# OCR in openCV
+# using HOG and SVM
 
