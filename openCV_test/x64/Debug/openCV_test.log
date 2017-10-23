@@ -1,3 +1,12 @@
-﻿  openCVtest.cpp
-  openCV_test.vcxproj -> C:\Users\Owner\source\repos\openCV_test\x64\Debug\openCV_test.exe
-  openCV_test.vcxproj -> C:\Users\Owner\source\repos\openCV_test\x64\Debug\openCV_test.pdb (Partial PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (openCV_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OCR.cpp
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(71): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(78): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(130): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(203): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(206): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\mydata\opencv\ocr\opencv_test\ocr.cpp(207): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  openCV_test.vcxproj -> E:\MyData\OpenCV\OCR\x64\Debug\OCR.exe
+  openCV_test.vcxproj -> E:\MyData\OpenCV\OCR\x64\Debug\OCR.pdb (Partial PDB)
